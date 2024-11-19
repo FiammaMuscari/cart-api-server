@@ -1,0 +1,31 @@
+# Node.js dependencies
+/node_modules/
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+.env
+
+# Directorios de construcción y dependencias temporales
+/dist/
+/build/
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos generados por OS
+.DS_Store
+Thumbs.db
+
+# Archivos de la base de datos (si usas SQLite o similar)
+*.sqlite
+
+# Otros archivos que no deben subirse
+*.log
+*.pid
